@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "../../../w3schools"
+		},
+		{
+			"path": "../../../udacity"
+		},
+		{
+			"path": "../../../khanacademy"
+		},
+		{
+			"path": "../../../Facebook"
+		},
+		{
+			"path": "../../../Instagram"
+		},
+		{
+			"path": "../../../Microsoft"
+		},
+		{
+			"path": "../../../lab3"
+		},
+		{
+			"path": "../../../Comparisons"
+		},
+		{
+			"path": "../../first-app_01-hello-world"
+		},
+		{
+			"path": "../../lab4"
+		},
+		{
+			"path": "../../lab6"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../my_project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "lab3"
+	}
+}
